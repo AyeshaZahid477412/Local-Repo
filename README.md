@@ -1,3 +1,2 @@
-#This is my local repo
-<br>
-Author <Ayesha>
+# This is my local repo
+
